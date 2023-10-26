@@ -1,0 +1,41 @@
+{
+    "ITEM": {
+        "itemID": "A938BD23",
+        "ad": 75,
+        "def": 20,
+        "hp": 1000,
+        "model": "Ash",
+        "speed": 80,
+        "atkSpeed": 70
+    },
+    "RECORD": {
+        "match": 394,
+        "win": 288
+    },
+    "USER": {
+        "userName": "xorud",
+        "userID": "tkx"
+    },
+    "HISTORY": [
+        {
+            "time": "2023-10-26T23:17:58.537538",
+            "content": "최초 생성"
+        },
+        {
+            "time": "2023-10-26T23:17:58.537796",
+            "content": "닉네임 변경"
+        },
+        {
+            "time": "2023-10-26T23:40:18.844243",
+            "content": "user ID 수정 추가"
+        },
+        {
+            "time": "2023-10-26T23:40:55.834218",
+            "content": "item ID 내용 변경 추가"
+        },
+        {
+            "time": "2023-10-26T23:43:16.549119",
+            "content": "user ID와 Name 변경 추가"
+        }
+    ]
+}
